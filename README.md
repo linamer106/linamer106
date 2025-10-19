@@ -13,7 +13,7 @@
 - **Java & OOP:** Centralized system for managing multiple NZ activity operators (with feedback system), Mind Game vs AI, graph-based route-finding using shortest-path algorithms
 - **C:** Boxed In Sokoban Game functionality and for Computer Systems coding (eg simple AVR C program)
 - **MATLAB:** Image processing techniques (Greyscale, Invert, Blur, Sketch, Colour Difference, Two-Tone, Find Closest Colour, Crystallise)
-- **SceneBuilder & JavaFX:** Interactive AI accountability simulation (university project - will upload upon permission to release at the end of this semester)
+- **SceneBuilder & JavaFX:** Interactive AI accountability simulation **(university project - will upload upon permission to release at the end of this semester)**
 - **React(basic):** Hackathon project website for interactive AI childhood characters (working on the Task-API repo using this now)
 - **Python** 
 
