@@ -61,6 +61,11 @@ Here are some of my highlighted projects (more available in my repositories):
 
 ---
 
+### 📦 [Boxed-In Sokoban Game](https://github.com/linamer106/Boxed-In-Sokoban-Game)
+> Console-based puzzle game in C where you push boxes onto target squares in a 10x10 grid. Demonstrates array manipulation, modular functions, and user input handling.
+
+---
+
 ### 🧰 [Task List API & Frontend](https://github.com/linamer106/Task-API)
 > Full-stack task manager with Java REST API backend and React frontend. Supports CRUD operations with a clean, interactive interface.  
 **Tech Stack:** Java, Spring Boot, React, CSS  
