@@ -1,5 +1,5 @@
 # Hi, I'm Lina Amer 👋
-**Software Engineering Student at the University of Auckland | Passionate about Software Design, Software Testing and AI**  
+**Software Engineering Student at the University of Auckland | Passionate about Software Design, Software Architecture, Testing and AI**  
 
 > A fast-learning software engineering student passionate about software technology and its impact — from managing systems to AI and space exploration. Curious by nature, I thrive on understanding how things work and how to build them better. I’m most fulfilled when collaborating to build solutions for meaningful purposes.
 
