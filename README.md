@@ -10,26 +10,60 @@
 ## 🔧 Technical Skills
 
 **Programming Languages & Frameworks**
-- **Java & OOP:** Centralized system for managing multiple NZ activity operators (with feedback system), Mind Game vs AI, graph-based route-finding using shortest-path algorithms
-- **C:** Boxed In Sokoban Game functionality and for Computer Systems coding (eg simple AVR C program)
-- **MATLAB:** Image processing techniques (Greyscale, Invert, Blur, Sketch, Colour Difference, Two-Tone, Find Closest Colour, Crystallise)
-- **SceneBuilder & JavaFX:** Interactive AI accountability simulation **(university project - will upload upon permission to release at the end of this semester)**
-- **React (basic):** Hackathon project website for interactive AI childhood characters (working on the Task-API repo using this now)
-- **Python**
+- **Java:** Object-oriented programming, REST APIs, client-server applications, TCP sockets, Java serialization, collections, concurrency, and backend/full-stack development
+- **Spring Boot:** REST controller development, dependency injection, request mapping, JSON APIs, response handling, profile-based configuration, integration testing, content negotiation, and WebSocket support
+- **JPA / Hibernate / Spring Data:** Entity modelling, ORM relationships, inheritance mapping, repositories, persistence configuration, and transactional data handling
+- **C:** Systems programming, embedded programming/design, low-level problem solving, concurrent programming, xv6 scheduling, FUSE filesystem development, dispatch queues, threadpools, and AVR programming
+- **Python:** AI-related tooling, LLM-based evaluation, and general scripting/application development
+- **MATLAB:** Image processing and transformation algorithms
+- **React (basic):** Frontend UI development for interactive and full-stack applications
 - **HTML & CSS**
+- **SceneBuilder & JavaFX:** GUI-based interactive application development
 
-**Software Tools**
-- Git & GitHub for version control
-- Xero (accounting-related software)
+**Software Engineering Concepts**
+- Object-Oriented Design
+- Software Architecture & Design Principles
+- Data Structures & Algorithms
+- Graph Algorithms & Pathfinding
+- Database Design & Relational Modelling
+- SQL & Query Design
+- Software Testing (TDD, unit, integration, system, blackbox, whitebox, coverage-based testing)
+- Verification & Validation
+- Static & Dynamic Analysis
+- Client-Server Communication
+- RESTful API Design
+- JSON / Jackson Serialization & Deserialization
+- TCP Sockets & Java Object Serialization
+- Content Negotiation (JSON, CSV, binary/image responses)
+- Database Persistence with ORM
+- Concurrency & Multithreading
+- Transaction Management & Isolation
+- WebSockets / Publish-Subscribe Messaging
+- Operating Systems Concepts
+- Networking Fundamentals (TCP/IP, packet-based communication, network services)
+- Security Fundamentals (authentication, encryption, secure communication concepts)
+- AI / Machine Learning Fundamentals
+- Requirements Gathering & Client-Focused Design
+- Agile / Team-Based Software Development
+- Technical Communication, Presentation, and Collaboration
+
+**Software Tools & Platforms**
+- Git & GitHub
+- Maven
+- Spring Boot
+- JUnit & Mockito
+- Postman
+- H2 Database
 - VS Code
-- Maven, Spring Boot
+- IntelliJ IDEA
+- Xero
 
 **Relevant Coursework**
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Software Engineering Design (client-based projects)
-- Software Quality Assurance
-- Software Theory & Fundamentals of Computer Engineering
+- **Software Engineering:** Software Engineering Design I & II, Software Architecture, Software Quality Assurance
+- **Systems & Infrastructure:** Operating Systems, Networks and Security, Fundamentals of Computer Engineering
+- **Algorithms & Data:** Data Structures & Algorithms, Fundamentals of Database Systems
+- **AI & Graphics:** Artificial Intelligence & Machine Learning, Computer Graphics & Image Processing
+- **Professional Practice:** Professional Skills, Communication and Collaboration, Innovation and Business Cases
 
 ---
 
