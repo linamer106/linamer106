@@ -20,33 +20,6 @@
 - **HTML & CSS**
 - **SceneBuilder & JavaFX:** GUI-based interactive application development
 
-**Software Engineering Concepts**
-- Object-Oriented Design
-- Software Architecture & Design Principles
-- Data Structures & Algorithms
-- Graph Algorithms & Pathfinding
-- Database Design & Relational Modelling
-- SQL & Query Design
-- Software Testing (TDD, unit, integration, system, blackbox, whitebox, coverage-based testing)
-- Verification & Validation
-- Static & Dynamic Analysis
-- Client-Server Communication
-- RESTful API Design
-- JSON / Jackson Serialization & Deserialization
-- TCP Sockets & Java Object Serialization
-- Content Negotiation (JSON, CSV, binary/image responses)
-- Database Persistence with ORM
-- Concurrency & Multithreading
-- Transaction Management & Isolation
-- WebSockets / Publish-Subscribe Messaging
-- Operating Systems Concepts
-- Networking Fundamentals (TCP/IP, packet-based communication, network services)
-- Security Fundamentals (authentication, encryption, secure communication concepts)
-- AI / Machine Learning Fundamentals
-- Requirements Gathering & Client-Focused Design
-- Agile / Team-Based Software Development
-- Technical Communication, Presentation, and Collaboration
-
 **Software Tools & Platforms**
 - Git & GitHub
 - Maven
@@ -57,14 +30,6 @@
 - VS Code
 - IntelliJ IDEA
 - Xero
-
-**Relevant Coursework**
-- **Software Engineering:** Software Engineering Design I & II, Software Architecture, Software Quality Assurance
-- **Systems & Infrastructure:** Operating Systems, Networks and Security, Fundamentals of Computer Engineering
-- **Algorithms & Data:** Data Structures & Algorithms, Fundamentals of Database Systems
-- **AI & Graphics:** Artificial Intelligence & Machine Learning, Computer Graphics & Image Processing
-- **Professional Practice:** Professional Skills, Communication and Collaboration, Innovation and Business Cases
-
 ---
 
 ## 💻 Featured Projects
@@ -143,6 +108,51 @@
 > Console-based puzzle game in C where you push boxes onto target squares in a 10x10 grid. Demonstrates array manipulation, modular functions, and user input handling. Built to practice low-level systems thinking and game logic.  
 **Tech Stack:** C, Algorithms, Data Structures  
 
+---
+**Software Engineering Concepts**
+- Object-Oriented Design
+- Software Architecture & Design Principles
+- Data Structures & Algorithms
+- Graph Algorithms & Pathfinding
+- Database Design & Relational Modelling
+- SQL & Query Design
+- Software Testing (TDD, unit, integration, system, blackbox, whitebox, coverage-based testing)
+- Verification & Validation
+- Static & Dynamic Analysis
+- Client-Server Communication
+- RESTful API Design
+- JSON / Jackson Serialization & Deserialization
+- TCP Sockets & Java Object Serialization
+- Content Negotiation (JSON, CSV, binary/image responses)
+- Database Persistence with ORM
+- Concurrency & Multithreading
+- Transaction Management & Isolation
+- WebSockets / Publish-Subscribe Messaging
+- Operating Systems Concepts
+- Networking Fundamentals (TCP/IP, packet-based communication, network services)
+- Security Fundamentals (authentication, encryption, secure communication concepts)
+- AI / Machine Learning Fundamentals
+- Requirements Gathering & Client-Focused Design
+- Agile / Team-Based Software Development
+- Technical Communication, Presentation, and Collaboration
+
+**Software Tools & Platforms**
+- Git & GitHub
+- Maven
+- Spring Boot
+- JUnit & Mockito
+- Postman
+- H2 Database
+- VS Code
+- IntelliJ IDEA
+- Xero
+
+**Relevant Coursework**
+- **Software Engineering:** Software Engineering Design I & II, Software Architecture, Software Quality Assurance
+- **Systems & Infrastructure:** Operating Systems, Networks and Security, Fundamentals of Computer Engineering
+- **Algorithms & Data:** Data Structures & Algorithms, Fundamentals of Database Systems
+- **AI & Graphics:** Artificial Intelligence & Machine Learning, Computer Graphics & Image Processing
+- **Professional Practice:** Professional Skills, Communication and Collaboration, Innovation and Business Cases
 ---
 
 ## 📫 Contact Me
