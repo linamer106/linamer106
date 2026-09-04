@@ -136,16 +136,6 @@
 - Agile / Team-Based Software Development
 - Technical Communication, Presentation, and Collaboration
 
-**Software Tools & Platforms**
-- Git & GitHub
-- Maven
-- Spring Boot
-- JUnit & Mockito
-- Postman
-- H2 Database
-- VS Code
-- IntelliJ IDEA
-- Xero
 
 **Relevant Coursework**
 - **Software Engineering:** Software Engineering Design I & II, Software Architecture, Software Quality Assurance
