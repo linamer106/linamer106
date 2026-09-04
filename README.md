@@ -1,7 +1,7 @@
 # Hi, I'm Lina Amer 👋
 **Software Engineering Student at the University of Auckland | Passionate about Software Design, Software Testing and AI**  
 
-> A fast-learning software engineering student passionate about software technology and its impact — from managing systems to AI and space exploration. Curious by nature, I thrive on understanding the *how* and *why* behind systems, and I’m most fulfilled when collaborating to build solutions for meaningful purposes.  
+> A fast-learning software engineering student passionate about software technology and its impact — from managing systems to AI and space exploration. Curious by nature, I thrive on understanding how things work and how to build them better.
 
 > I believe the best results come from shared ideas, teamwork, and continuous learning. Outside the classroom, I actively seek challenges through hackathons, tech communities, and personal projects.
 
@@ -14,7 +14,7 @@
 - **C:** Boxed In Sokoban Game functionality and for Computer Systems coding (eg simple AVR C program)
 - **MATLAB:** Image processing techniques (Greyscale, Invert, Blur, Sketch, Colour Difference, Two-Tone, Find Closest Colour, Crystallise)
 - **SceneBuilder & JavaFX:** Interactive AI accountability simulation **(university project - will upload upon permission to release at the end of this semester)**
-- **React(basic):** Hackathon project website for interactive AI childhood characters (working on the Task-API repo using this now)
+- **React (basic):** Hackathon project website for interactive AI childhood characters (working on the Task-API repo using this now)
 - **Python**
 - **HTML & CSS**
 
@@ -22,6 +22,7 @@
 - Git & GitHub for version control
 - Xero (accounting-related software)
 - VS Code
+- Maven, Spring Boot
 
 **Relevant Coursework**
 - Data Structures & Algorithms
@@ -32,49 +33,81 @@
 
 ---
 
-## 💻 Projects
+## 💻 Featured Projects
 
-Here are some of my highlighted projects (more available in my repositories):
+### 🧪 **Testing & Quality Assurance**
+
+#### [TDD with Mockito & Blackbox Testing](https://github.com/linamer106/tdd-mockito-blackbox-testing-CODEBOT2)
+> Comprehensive testing framework demonstrating Test-Driven Development practices with Mockito mocking library and blackbox testing methodologies. Built to understand how rigorous testing practices ensure code reliability and maintainability.  
+**Tech Stack:** Java, JUnit, Mockito, TDD  
+
+#### [Whitebox Coverage Testing](https://github.com/linamer106/whitebox-coverage-CODEBOT3)
+> Advanced testing suite focused on whitebox testing techniques, code coverage analysis, and branch/path coverage strategies. Developed to master systematic code validation and identify edge cases.  
+**Tech Stack:** Java, Coverage Tools, Whitebox Testing  
+
+#### [LLM User Story Quality Checker](https://github.com/linamer106/llm-user-story-quality-checker-CODEBOT1)
+> AI-powered tool for evaluating and improving user story quality, leveraging LLMs to provide automated testing and quality feedback. Created to explore how AI can enhance software engineering processes.  
+**Tech Stack:** Python, LLM APIs, Quality Assurance  
 
 ---
 
-### 🧠 [Mind Game (Guess Colours)](https://github.com/linamer106/MindGame-AI)
-> Java CLI game where a player competes against an adaptive AI in a colour-guessing challenge. Features multiple AI difficulty levels and dynamic scoring.  
+### 🖥️ **Operating Systems & Systems Programming**
+
+#### [xv6 Priority Scheduler](https://github.com/linamer106/xv6-priority-scheduler-OS)
+> Custom priority scheduling implementation for xv6 OS, demonstrating kernel-level process management and scheduling algorithms. Built to deepen understanding of OS internals and process management.  
+**Tech Stack:** C, OS Kernels, Process Scheduling  
+
+#### [FUSE Hybrid Filesystem](https://github.com/linamer106/fuse-hybrid-filesystem-OS)
+> Advanced filesystem implementation using FUSE (Filesystem in Userspace), combining multiple filesystem strategies. Developed to explore low-level system design and filesystem architecture.  
+**Tech Stack:** C, FUSE, Linux Filesystems, Systems Programming  
+
+#### [Dispatch Queue & Threadpool](https://github.com/linamer106/dispatch-queue-threadpool-OS)
+> Efficient concurrent task management system with custom threadpool implementation and dispatch queuing mechanisms. Created to master concurrent programming and efficient task scheduling.  
+**Tech Stack:** C, Concurrency, Threadpools, System Design  
+
+---
+
+### 🧠 **AI & Advanced Applications**
+
+#### [Courtroom Trial Simulation AI](https://github.com/linamer106/courtroom-trial-simulation-ai-beta-advanced-)
+> Advanced AI simulation of courtroom proceedings with complex logic, decision trees, and interactive scenarios. Built to explore how AI can simulate complex real-world systems and decision-making processes.  
+**Tech Stack:** AI/ML, Simulation, Logic Systems  
+
+#### [Verdict AI Alpha](https://github.com/linamer106/verdict-ai-alpha)
+> Decision-making AI system for legal verdict prediction and case analysis. Created to understand AI applications in specialized domains.  
+**Tech Stack:** Python, AI/ML, Decision Systems  
+
+#### [Interactive Childhood AI Characters](https://github.com/linamer106/Interactive-Childhood-AI-Characters)
+> Hackathon project creating interactive AI personalities for educational engagement. Developed to explore how AI can make learning more engaging and personalized.  
+**Tech Stack:** React, AI/LLMs, Interactive Systems  
+
+---
+
+### 🎯 **Core Software Engineering Projects**
+
+#### [Task List API & Frontend](https://github.com/linamer106/Task-API)
+> Full-stack task manager with Java REST API backend and React frontend. Supports CRUD operations with a clean, interactive interface. Built to practice full-stack development and API design.  
+**Tech Stack:** Java, Spring Boot, React, CSS, REST APIs  
+
+#### [Mind Game (Guess Colours)](https://github.com/linamer106/MindGame-AI)
+> Java CLI game where a player competes against an adaptive AI in a colour-guessing challenge. Features multiple AI difficulty levels and dynamic scoring. Created to explore game AI strategy patterns and dynamic difficulty.  
 **Tech Stack:** Java, OOP, Strategy & Factory Patterns, Maven  
 
----
-
-### 🌍 [Risk-Map-BFS](https://github.com/linamer106/Risk-Map-BFS)
-> Simulates route planning on a Risk-inspired map using BFS. Calculates shortest paths, fuel costs, and tracks continents visited.  
+#### [Risk-Map-BFS](https://github.com/linamer106/Risk-Map-BFS)
+> Simulates route planning on a Risk-inspired map using BFS. Calculates shortest paths, fuel costs, and tracks continents visited. Built to master graph algorithms and pathfinding optimization.  
 **Tech Stack:** Java, Graph Algorithms, Collections, Custom Exceptions  
 
----
-
-### 📘 [Activity Operator Management System](https://github.com/linamer106/NZ-Activity-Operators)
-> CLI tool for managing New Zealand tourism operators and their reviews. Supports registration, activity management, and automated review tracking.  
+#### [Activity Operator Management System](https://github.com/linamer106/Operator-Management-System)
+> CLI tool for managing New Zealand tourism operators and their reviews. Supports registration, activity management, and automated review tracking. Developed to practice building scalable systems with real-world requirements.  
 **Tech Stack:** Java, OOP, CLI, Automated Testing  
 
----
-
-### 🧮 [MATLAB Image Filters](https://github.com/linamer106/MATLAB-Filters)
-> Collection of MATLAB functions applying filters and effects, including greyscale, blur, sketch, two-tone, and crystallise transformations.  
+#### [MATLAB Image Filters](https://github.com/linamer106/MATLAB-image-filters)
+> Collection of MATLAB functions applying filters and effects, including greyscale, blur, sketch, two-tone, and crystallise transformations. Created to explore image processing algorithms and computational thinking.  
 **Tech Stack:** MATLAB, Image Processing  
 
----
-
-### 📦 [Boxed-In Sokoban Game](https://github.com/linamer106/Boxed-In-Sokoban-Game)
-> Console-based puzzle game in C where you push boxes onto target squares in a 10x10 grid. Demonstrates array manipulation, modular functions, and user input handling.
-
----
-
-### 🧰 [Task List API & Frontend](https://github.com/linamer106/Task-API)
-> Full-stack task manager with Java REST API backend and React frontend. Supports CRUD operations with a clean, interactive interface.  
-**Tech Stack:** Java, Spring Boot, React, CSS  
-
----
-
-> 🚀 *More projects coming soon!*
-
+#### [Boxed-In Sokoban Game](https://github.com/linamer106/Boxed-In-Sokoban-Game)
+> Console-based puzzle game in C where you push boxes onto target squares in a 10x10 grid. Demonstrates array manipulation, modular functions, and user input handling. Built to practice low-level systems thinking and game logic.  
+**Tech Stack:** C, Algorithms, Data Structures  
 
 ---
 
@@ -86,5 +119,4 @@ Here are some of my highlighted projects (more available in my repositories):
 ---
 
 ## 🌟 Fun Fact
-> My hobbies are as multi-threaded as my code — from volunteering at community events to exploring the ocean, I love discovering new perspectives :)  
-
+> My hobbies are as multi-threaded as my code — from volunteering at community events to exploring the ocean, I love discovering new perspectives :)
