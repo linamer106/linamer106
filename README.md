@@ -1,7 +1,7 @@
 # Hi, I'm Lina Amer 👋
 **Software Engineering Student at the University of Auckland | Passionate about Software Design, Software Architecture, Testing and AI**
 
-Penultimate-year Software Engineering student who thrives on understanding the "how" and "why" behind systems — from full-stack web applications to operating-system internals. Experienced across backend frameworks, systems programming, and applied AI, with industry exposure spanning enterprise software migration, network security, and AI-driven data systems. With a growing interest in how AI can extend into space exploration and beyond.
+Penultimate-year Software Engineering student who thrives on understanding the "how" and "why" behind systems — from full-stack web applications to operating-system internals. Experienced across backend frameworks, systems programming, and applied AI, with industry exposure spanning enterprise software migration, network security, and AI-driven data systems. Has a growing interest in how AI can extend into space exploration and beyond.
 
 A fast, self-directed learner who believes the best results come from shared ideas and teamwork - actively seeks out hackathons, tech communities, and personal projects to keep growing.
 
@@ -20,8 +20,10 @@ A fast, self-directed learner who believes the best results come from shared ide
 - **HTML & CSS**
 - **SceneBuilder & JavaFX**: GUI-based interactive application development
 
+
 **Software Tools & Platforms**
 Git & GitHub · Maven · Spring Boot · JUnit & Mockito · Postman · H2 Database · VS Code · IntelliJ IDEA · GitHub Actions · Xero
+
 ---
 
 ## 💻 Featured Projects
