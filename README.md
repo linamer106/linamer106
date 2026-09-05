@@ -1,35 +1,27 @@
 # Hi, I'm Lina Amer 👋
-**Software Engineering Student at the University of Auckland | Passionate about Software Design, Software Architecture, Testing and AI**  
+**Software Engineering Student at the University of Auckland | Passionate about Software Design, Software Architecture, Testing and AI**
 
-> A fast-learning software engineering student passionate about software technology and its impact — from managing systems to AI and space exploration. Curious by nature, I thrive on understanding how things work and how to build them better. I’m most fulfilled when collaborating to build solutions for meaningful purposes.
+Penultimate-year Software Engineering student who thrives on understanding the "how" and "why" behind systems — from full-stack web applications to operating-system internals. Experienced across backend frameworks, systems programming, and applied AI, with industry exposure spanning enterprise software migration, network security, and AI-driven data systems. With a growing interest in how AI can extend into space exploration and beyond.
 
-> I believe the best results come from shared ideas, teamwork, and continuous learning. Outside the classroom, I actively seek challenges through hackathons, tech communities, and personal projects.
+A fast, self-directed learner who believes the best results come from shared ideas and teamwork - actively seeks out hackathons, tech communities, and personal projects to keep growing.
 
 ---
 
-## 🔧 Technical Skills
+### 🔧 Technical Skills
 
 **Programming Languages & Frameworks**
-- **Java:** Object-oriented programming, REST APIs, client-server applications, TCP sockets, Java serialization, collections, concurrency, and backend/full-stack development
-- **Spring Boot:** REST controller development, dependency injection, request mapping, JSON APIs, response handling, profile-based configuration, integration testing, content negotiation, and WebSocket support
-- **JPA / Hibernate / Spring Data:** Entity modelling, ORM relationships, inheritance mapping, repositories, persistence configuration, and transactional data handling
-- **C:** Systems programming, embedded programming/design, low-level problem solving, concurrent programming, xv6 scheduling, FUSE filesystem development, dispatch queues, threadpools, and AVR programming
-- **Python:** AI-related tooling, LLM-based evaluation, and general scripting/application development
-- **MATLAB:** Image processing and transformation algorithms
-- **React (basic):** Frontend UI development for interactive and full-stack applications
+- **Java**: Object-oriented programming, REST APIs, client-server applications, TCP sockets, Java serialization, collections, concurrency, and backend/full-stack development
+- **Spring Boot**: REST controller development, dependency injection, request mapping, JSON APIs, response handling, profile-based configuration, integration testing, content negotiation, and WebSocket support
+- **JPA / Hibernate / Spring Data**: Entity modelling, ORM relationships, inheritance mapping, repositories, persistence configuration, and transactional data handling
+- **C**: Systems programming, embedded programming/design, low-level problem solving, concurrent programming, xv6 scheduling, FUSE filesystem development, dispatch queues, threadpools, and AVR programming
+- **Python**: AI-related tooling, LLM-based evaluation, and general scripting/application development
+- **MATLAB**: Image processing and transformation algorithms
+- **React (basic)**: Frontend UI development for interactive and full-stack applications
 - **HTML & CSS**
-- **SceneBuilder & JavaFX:** GUI-based interactive application development
+- **SceneBuilder & JavaFX**: GUI-based interactive application development
 
 **Software Tools & Platforms**
-- Git & GitHub
-- Maven
-- Spring Boot
-- JUnit & Mockito
-- Postman
-- H2 Database
-- VS Code
-- IntelliJ IDEA
-- Xero
+Git & GitHub · Maven · Spring Boot · JUnit & Mockito · Postman · H2 Database · VS Code · IntelliJ IDEA · GitHub Actions · Xero
 ---
 
 ## 💻 Featured Projects
