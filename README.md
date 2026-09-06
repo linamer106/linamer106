@@ -79,8 +79,8 @@ Git & GitHub · Maven · Spring Boot · JUnit & Mockito · Postman · H2 Databas
 ### 🎯 **Core Software Engineering Projects**
 
 #### [Task List API & Frontend](https://github.com/linamer106/Task-API)
-> Full-stack task manager with Java REST API backend and React frontend. Supports CRUD operations with a clean, interactive interface. Built to practice full-stack development and API design.  
-**Tech Stack:** Java, Spring Boot, React, CSS, REST APIs  
+> Full-stack task manager with Java REST API backend and a planned React frontend to supports CRUD operations with a clean, interactive interface. Built to practice full-stack development and API design - still to be continued.  
+**Tech Stack (in progress):** Java, Spring Boot, React, CSS, REST APIs  
 
 #### [Mind Game (Guess Colours)](https://github.com/linamer106/MindGame-AI)
 > Java CLI game where a player competes against an adaptive AI in a colour-guessing challenge. Features multiple AI difficulty levels and dynamic scoring. Created to explore game AI strategy patterns and dynamic difficulty.  
